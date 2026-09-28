@@ -26,3 +26,9 @@ text = processor.apply_chat_template(
 )
 
 thinking的对照实验：开or关
+
+
+
+
+python -m pip install -U pillow
+python -m pip install -U torchvision
